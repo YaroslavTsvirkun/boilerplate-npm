@@ -5,6 +5,7 @@
 		"last_name": "T."
 	},
 	"description": "This test project for education goals.",
+	"keywords": [ "test", "education" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
