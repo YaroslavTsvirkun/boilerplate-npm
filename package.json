@@ -4,6 +4,7 @@
 		"first_name": "Yaroslav",
 		"last_name": "T."
 	},
+	"description": "This test project for education goals.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
