@@ -5,7 +5,7 @@
 		"last_name": "T."
 	},
 	"description": "This test project for education goals.",
-	"keywords": [ "test", "education" ],
+	"keywords": [ "test", "education", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
